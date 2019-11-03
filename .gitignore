@@ -1,3 +1,5 @@
+.idea/
+
 # Keep these files
 !data/
 !models/
